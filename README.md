@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=e0f7fa&text=VELTEREN&textBg=false&fontSize=70&strokeWidth=1&desc=Frontend%20Developer&descAlignY=65&reversal=false&fontColor=00beac"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=e0f7fa&text=VELTEREN&textBg=false&fontSize=70&strokeWidth=1&desc=Frontend%20Developer%20•%20Linux%20Enthusiast%20•%20Tech%20Explorer&descAlignY=65&reversal=false&fontColor=00beac"/>
 </p>
-<h1 align="center">Hi, I'm Constantine 👋</h1>
-<p align="center">
-  Frontend Developer • Linux Enthusiast • Tech Explorer
-</p>
+<h1>Hi, I'm Constantine 👋</h1>
 
----
 
 ### 🚀 About Me
 
