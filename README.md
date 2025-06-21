@@ -26,5 +26,3 @@ Testing:        Jest • React Testing Library
 Backend (basics): Node.js • Express • REST APIs
 Other:          Webpack • PWA • GitHub Pages • Linux/Mint
 ```
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=velteren&show_icons=true&theme=react&hide=issues,prs" alt="GitHub Stats" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=velteren&layout=compact&theme=react" alt="Top Langs" height="150"/> </p>
